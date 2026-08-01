@@ -1,0 +1,15 @@
+.hero{
+    background-image: url(/imgplat/akpessi-696x384.jpg);
+    background-size:cover;
+    background-position:center;
+    height: 70vh;
+}
+.propos{
+    padding: 60px 0;
+}
+.propos img{
+    border-radius: 20px solid;
+}
+.propos{
+    margin-bottom: 20px;
+}
